@@ -1,5 +1,5 @@
 # git_demo
 repositrory
 <br>
-Author - Khushi Rani
+Author - Khushi Rani (student)
 
